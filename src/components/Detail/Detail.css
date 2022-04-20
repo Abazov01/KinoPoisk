@@ -1,0 +1,36 @@
+.detail__row {
+  display: flex;
+  justify-content: space-between;
+  height: 600px;
+  margin-top: 50px;
+  padding: 20px;
+  background-color: rgba(150, 188, 204, 0.95);
+}
+
+.detail__left {
+  width: 55%;
+}
+
+.detail__right {
+  width: 40%;
+}
+
+.detail__title {
+  text-align: center;
+  padding: 40px 0 40px 0;
+  text-align: center;
+}
+.desc {
+  height: 350px;
+  overflow: hidden;
+  text-align: center;
+}
+
+.detail__show {
+  margin-top: 40px;
+  font-size: 20px;
+  background: rgb(91, 181, 170);
+  border: 0.5px dashed;
+  padding: 8px 130px;
+  text-align: center;
+}

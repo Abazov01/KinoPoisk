@@ -1,0 +1,3 @@
+export const FILMS_BY_NAME = 'FILMS_BY_NAME'
+export const FILMS_POPULAR = 'FILMS_POPULAR'
+export const FILM_DETAIL = 'FILM_DETAIL'
