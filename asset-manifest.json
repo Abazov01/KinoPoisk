@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/KinoPoisk/static/css/main.da473d40.css",
-    "main.js": "/KinoPoisk/static/js/main.ec9d54b4.js",
+    "main.css": "/KinoPoisk/static/css/main.3964b55e.css",
+    "main.js": "/KinoPoisk/static/js/main.4fce60c8.js",
     "static/media/abstract_-_2127 (Original).mp4": "/KinoPoisk/static/media/abstract_-_2127 (Original).5575ec7b738423f9bdb1.mp4",
     "index.html": "/KinoPoisk/index.html",
-    "main.da473d40.css.map": "/KinoPoisk/static/css/main.da473d40.css.map",
-    "main.ec9d54b4.js.map": "/KinoPoisk/static/js/main.ec9d54b4.js.map"
+    "main.3964b55e.css.map": "/KinoPoisk/static/css/main.3964b55e.css.map",
+    "main.4fce60c8.js.map": "/KinoPoisk/static/js/main.4fce60c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.da473d40.css",
-    "static/js/main.ec9d54b4.js"
+    "static/css/main.3964b55e.css",
+    "static/js/main.4fce60c8.js"
   ]
 }
